@@ -23,7 +23,7 @@
 ### Работа с директориями в Linux
    - Создать новую директорию и переместить туда файл "Human Friends".
 
-   ![Image alt](https://github.com/IwanBelenko/nursery-accounting-system/blob/main/images/image5.jpg)
+     ![Image alt](https://github.com/IwanBelenko/nursery-accounting-system/blob/main/images/image5.jpg)
 
 ### Работа с MySQL в Linux. “Установить MySQL на вашу вычислительную машину ”
 
@@ -49,6 +49,7 @@ sudo apt-get install mysql-server
 systemctl status mysql
 
 ### Управление deb-пакетами
+
 Скачиваем пакет для установки:
 wget https://dev.mysql.com/get/Downloads/Connector-J/mysql-connector-j_8.0.32-1ubuntu22.04_all.deb
 
@@ -68,6 +69,6 @@ sudo apt-get autoremove
 
 history
 
- ![Image alt](https://github.com/IwanBelenko/nursery-accounting-system/blob/main/images/image6.jpg)
+   ![Image alt](https://github.com/IwanBelenko/nursery-accounting-system/blob/main/images/image6.jpg)
 
 
