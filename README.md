@@ -23,12 +23,51 @@
 ### Работа с директориями в Linux
    - Создать новую директорию и переместить туда файл "Human Friends".
 
+   ![Image alt](https://github.com/IwanBelenko/nursery-accounting-system/blob/main/images/image5.jpg)
+
 ### Работа с MySQL в Linux. “Установить MySQL на вашу вычислительную машину ”
-   - Подключить дополнительный репозиторий MySQL и установить один из пакетов из этого репозитория.
+
+Скачиваем конфигуратор mysql:
+wget https://dev.mysql.com/get/mysql-apt-config_0.8.24-1_all.deb
+
+Переходим в папку Загрузки и устанавливаем компоненты mysql с помощью конфигуратора:
+
+cd Загрузки sudo dpkg -i mysql-apt-config_0.8.24-1_all.deb
+
+В процессе установки жмем Ок, чтобы выполнить полную установку
+
+Обновляем информацию о пакетах и видим подключенный репозиторий mysql:
+
+sudo apt-get update
+
+Устанавливаем mysql-server:
+
+sudo apt-get install mysql-server
+
+Проверяем результат установки:
+
+systemctl status mysql
 
 ### Управление deb-пакетами
-   - Установить и затем удалить deb-пакет, используя команду `dpkg`.
+Скачиваем пакет для установки:
+wget https://dev.mysql.com/get/Downloads/Connector-J/mysql-connector-j_8.0.32-1ubuntu22.04_all.deb
+
+Устанавливаем пакет mysql-connector-j_8.0.32-1ubuntu22.04_all.deb:
+
+sudo dpkg - i mysql-connector-j_8.0.32-1ubuntu22.04_all.deb
+
+Удаляем пакет и его сопутствующие пакеты:
+
+sudo dpkg -r mysql-connector-j
+
+sudo apt-get autoremove
+
 
 ### История команд в терминале Ubuntu
-   - Сохранить и выложить историю ваших терминальных команд в Ubuntu.
+  Для получения истории введенных команд в терминале ubuntu используем:
+
+history
+
+ ![Image alt](https://github.com/IwanBelenko/nursery-accounting-system/blob/main/images/image6.jpg)
+
 
