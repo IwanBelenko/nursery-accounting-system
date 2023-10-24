@@ -18,7 +18,7 @@
 
      ![Image alt](https://github.com/IwanBelenko/nursery-accounting-system/blob/main/images/image1.jpg)
      ![Image alt](https://github.com/IwanBelenko/nursery-accounting-system/blob/main/images/image2.jpg)
-     ![Image alt](https://github.com/IwanBelenko/nursery-accounting-system/blob/main/images/image3.jpg)
+     ![Image alt](https://github.com/IwanBelenko/nursery-accounting-system/blob/main/images/image4.jpg)
      
 ### Работа с директориями в Linux
    - Создать новую директорию и переместить туда файл "Human Friends".
