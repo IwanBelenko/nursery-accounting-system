@@ -14,7 +14,7 @@
 ### Использование команды cat в Linux
    - Создать два текстовых файла: "Pets"(Домашние животные) и "Pack animals"(вьючные животные), используя команду `cat` в терминале Linux. В первом файле перечислить собак, кошек и хомяков. Во втором — лошадей, верблюдов и ослов.
    - Объединить содержимое этих двух файлов в один и просмотреть его содержимое.
-   - Переименовать получившийся файл в "Animals"
+   - Переименовать получившийся файл в "Human friends"
 
      ![Image alt](https://github.com/IwanBelenko/nursery-accounting-system/blob/main/images/image1.jpg)
      ![Image alt](https://github.com/IwanBelenko/nursery-accounting-system/blob/main/images/image2.jpg)
