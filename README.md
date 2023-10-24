@@ -16,7 +16,8 @@
    - Объединить содержимое этих двух файлов в один и просмотреть его содержимое.
    - Переименовать получившийся файл в "Human Friends"
 
-     ![Изображение] (https://raw.githubusercontent.com/IwanBelenko/nursery-accounting-system/main/images/image1.jpg)
+     ![Изображение] (images/image1.jpg)
+     
 ### Работа с директориями в Linux
    - Создать новую директорию и переместить туда файл "Human Friends".
 
