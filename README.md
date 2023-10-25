@@ -79,5 +79,5 @@ history
 
 ![Image alt](https://github.com/IwanBelenko/nursery-accounting-system/blob/main/images/Diagramm.jpg)
 
-
+## В подключенном MySQL репозитории создать базу данных "Human friends"
 
