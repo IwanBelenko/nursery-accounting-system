@@ -12,18 +12,18 @@
 ## Операционные системы и виртуализация (Linux)
 
 ### Использование команды cat в Linux
-   - Создать два текстовых файла: "Pets"(Домашние животные) и "Pack animals"(вьючные животные), используя команду `cat` в терминале Linux. В первом файле перечислить собак, кошек и хомяков. Во втором — лошадей, верблюдов и ослов.
-   - Объединить содержимое этих двух файлов в один и просмотреть его содержимое.
-   - Переименовать получившийся файл в "Human friends"
+Создать два текстовых файла: "Pets"(Домашние животные) и "Pack animals"(вьючные животные), используя команду `cat` в терминале Linux. В первом файле перечислить собак, кошек и хомяков. Во втором — лошадей, верблюдов и ослов.
+Объединить содержимое этих двух файлов в один и просмотреть его содержимое.
+Переименовать получившийся файл в "Human friends"
 
-     ![Image alt](https://github.com/IwanBelenko/nursery-accounting-system/blob/main/images/image1.jpg)
-     ![Image alt](https://github.com/IwanBelenko/nursery-accounting-system/blob/main/images/image2.jpg)
-     ![Image alt](https://github.com/IwanBelenko/nursery-accounting-system/blob/main/images/image4.jpg)
+![Image alt](https://github.com/IwanBelenko/nursery-accounting-system/blob/main/images/image1.jpg)
+![Image alt](https://github.com/IwanBelenko/nursery-accounting-system/blob/main/images/image2.jpg)
+![Image alt](https://github.com/IwanBelenko/nursery-accounting-system/blob/main/images/image4.jpg)
      
 ### Работа с директориями в Linux
-   - Создать новую директорию и переместить туда файл "Human Friends".
+Создать новую директорию и переместить туда файл "Human Friends".
 
-     ![Image alt](https://github.com/IwanBelenko/nursery-accounting-system/blob/main/images/image5.jpg)
+![Image alt](https://github.com/IwanBelenko/nursery-accounting-system/blob/main/images/image5.jpg)
 
 ### Работа с MySQL в Linux. “Установить MySQL на вашу вычислительную машину ”
 
@@ -69,6 +69,15 @@ sudo apt-get autoremove
 
 history
 
-   ![Image alt](https://github.com/IwanBelenko/nursery-accounting-system/blob/main/images/image6.jpg)
+![Image alt](https://github.com/IwanBelenko/nursery-accounting-system/blob/main/images/image6.jpg)
+
+## Диаграмма классов
+
+Создать диаграмму классов с родительским классом "Животные", и двумя подклассами: "Pets" и "Pack animals".
+В составы классов которых в случае Pets войдут классы: собаки, кошки, хомяки, а в класс Pack animals войдут: Лошади, верблюды и ослы).
+Каждый тип животных будет характеризоваться (например, имена, даты рождения, выполняемые команды и т.д)
+
+![Image alt](https://github.com/IwanBelenko/nursery-accounting-system/blob/main/images/Diagramm.jpg)
+
 
 
