@@ -92,7 +92,7 @@ history
 
 ![Image alt](https://github.com/IwanBelenko/nursery-accounting-system/blob/main/images/image7.jpg)
 
-[Ссылка на скрипт] (https://github.com/IwanBelenko/nursery-accounting-system/blob/main/SQL_DB.sql "перейти по ссылке")
+[Ссылка на скрипт](https://github.com/IwanBelenko/nursery-accounting-system/blob/main/SQL_DB.sql "перейти по ссылке")
 
 
 ## ООП и Java
