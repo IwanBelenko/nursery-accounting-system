@@ -88,6 +88,12 @@ history
 Создать новую таблицу для животных в возрасте от 1 до 3 лет и вычислить их возраст с точностью до месяца.
 Объединить все созданные таблицы в одну, сохраняя информацию о принадлежности к исходным таблицам.
 
+Базу данных создал на сервисе phpMyAdmin для дальнейшей связи БД с программой
+
+![Image alt](https://github.com/IwanBelenko/nursery-accounting-system/blob/main/images/image7.jpg)
+
+[Ссылка на скрипт] (https://github.com/IwanBelenko/nursery-accounting-system/blob/main/SQL_DB.sql "перейти по ссылке")
+
 
 ## ООП и Java
 
