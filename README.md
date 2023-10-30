@@ -92,6 +92,8 @@ history
 
 ![Image alt](https://github.com/IwanBelenko/nursery-accounting-system/blob/main/images/image7.jpg)
 
+а так же на локальном сервере с помощью MуSQL Workbrench
+
 [Ссылка на скрипт](https://github.com/IwanBelenko/nursery-accounting-system/blob/main/SQL_DB.sql "перейти по ссылке")
 
 
