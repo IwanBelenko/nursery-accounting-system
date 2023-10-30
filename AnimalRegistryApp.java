@@ -15,7 +15,6 @@ class Pet {
         commands = new ArrayList<>();
     }
 
-    // Геттеры и сеттеры
 
     // Метод для добавления новой команды
     public void addCommand(String command) {
@@ -260,7 +259,7 @@ public class AnimalRegistryApp {
                     break;
             }
 
-            System.out.println(); // Пустая строка для разделения вывода
+            System.out.println(); 
         }
 
         registry.closeConnection();
